@@ -98,3 +98,11 @@ footer {
 	text-align: center;
 }
 /*追加分*/
+h1 {
+	color:black 24px;;
+	font-weight:bold
+}
+
+.contents{
+	background-color:#90D4FF;
+}
