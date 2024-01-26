@@ -106,3 +106,8 @@ h1 {
 .contents{
 	background-color:#90D4FF;
 }
+
+h2 {
+	color: #666 18px ;
+	font-weight: bold;
+}
